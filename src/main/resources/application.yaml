@@ -1,0 +1,16 @@
+server:
+  port: 8082
+
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: kookkook0199x@gmail.com
+    password: ysnw rxjv mdbd urkt
+    properties:
+        mail:
+          smtp:
+            auth: true
+            starttls:
+              enable: true
+
